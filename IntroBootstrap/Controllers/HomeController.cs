@@ -35,6 +35,34 @@ namespace IntroBootstrap.Controllers
         {
             return View();
         }
+        public IActionResult Tamanyos()
+        {
+            return View();
+        }
+        public IActionResult Espacios()
+        {
+            return View();
+        }
+        public IActionResult Utilidades()
+        {
+            return View();
+        }
+        public IActionResult Formularios()
+        {
+            return View();
+        }
+        public IActionResult Acordeon()
+        {
+            return View();
+        }
+        public IActionResult Alertas()
+        {
+            return View();
+        }
+        public IActionResult Carousel()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
