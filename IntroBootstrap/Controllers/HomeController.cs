@@ -18,6 +18,23 @@ namespace IntroBootstrap.Controllers
             return View();
         }
 
+        public IActionResult Ejemplos2()
+        {
+            return View();
+        }
+
+        public IActionResult Imagenes()
+        {
+            return View();
+        }
+        public IActionResult Tablas()
+        {
+            return View();
+        }
+        public IActionResult Video()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
