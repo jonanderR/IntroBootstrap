@@ -29,3 +29,4 @@ C:\Users\jonander.ruiz\source\repos\IntroBootstrap\IntroBootstrap\obj\Debug\net6
 C:\Users\jonander.ruiz\source\repos\IntroBootstrap\IntroBootstrap\obj\Debug\net6.0\IntroBootstrap.genruntimeconfig.cache
 C:\Users\jonander.ruiz\source\repos\IntroBootstrap\IntroBootstrap\obj\Debug\net6.0\ref\IntroBootstrap.dll
 C:\Users\jonander.ruiz\source\repos\IntroBootstrap\IntroBootstrap\obj\Debug\net6.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+C:\Users\jonander.ruiz\source\repos\IntroBootstrap\IntroBootstrap\obj\Debug\net6.0\scopedcss\Views\Home\Carousel.cshtml.rz.scp.css

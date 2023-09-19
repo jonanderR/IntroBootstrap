@@ -63,6 +63,23 @@ namespace IntroBootstrap.Controllers
         {
             return View();
         }
+        public IActionResult Modales()
+        {
+            return View();
+        }
+        public IActionResult Tabs()
+        {
+            return View();
+        }
+
+        public IActionResult OffCanvas()
+        {
+            return View();
+        }
+        public IActionResult Toast()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
